@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",🔮奥視2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",🍑驚艷台
+http://125.227.210.55:57286/VideoInput/play.ts
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",🌭香蕉台
+http://125.227.210.55:22522/VideoInput/play.ts
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",台視
+rtmp://9sv2.mine.nu/sat/tv071
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中視
+rtmp://9sv2.mine.nu/sat/tv091
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",華視
+rtmp://9sv2.mine.nu/sat/tv111
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視
+rtmp://9sv2.mine.nu/sat/tv051
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TVBS新聞
+rtmp://9sv2.mine.nu/sat/tv551
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森財經新聞
+rtmp://9sv2.mine.nu/sat/tv571
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來育樂
+rtmp://9sv2.mine.nu/sat/tv701
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來體育
+rtmp://9sv2.mine.nu/sat/tv721
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",MOMO綜合
+rtmp://9sv2.mine.nu/sat/tv761
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來日本
+rtmp://9sv2.mine.nu/sat/tv771
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELEVEN1
+rtmp://9sv2.mine.nu/sat/tv731
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELEVEN2
+rtmp://9sv2.mine.nu/sat/tv741
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯網球
+rtmp://9sv2.mine.nu/sat/md011
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯運動I
+rtmp://9sv2.mine.nu/sat/md021
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELTA體育2
+rtmp://9sv2.mine.nu/sat/md041
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELTA體育4
+rtmp://9sv2.mine.nu:1935/sat/md051
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視
+http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",台視
+http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中視
+http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",華視
+http://gwtv.cnv8.tv:8097/ctshd_tw/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",公視
+http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中視新聞
+http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TVBS新聞
+http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",非凡新聞
+http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森LIVE
+http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森財經
+http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",年代新聞
+http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中天娛樂
+http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中天綜合
+http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大第一
+http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大戲劇
+http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大綜合
+http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",三立戲劇
+http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",三立綜合
+http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森超視
+http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森綜合
+http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達影劇
+http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",JET綜合
+http://gwtv.cnv8.tv:8097/jettv_japan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",衛視中文
+http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",龍華洋片
+http://gwtv.cnv8.tv:8097/lunghuawestern_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",AXN
+http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",EYETV戲劇
+http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TVBS歡樂
+http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森洋片
+http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森電影
+http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來電影
+http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",好萊塢電影
+http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",龍祥時代
+http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",星衛電影
+http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",CINEMAX
+http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HBO原創鉅獻
+http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HBO
+http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HBO溫馨家庭
+http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",美亞電影
+http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HBO強檔鉅獻
+http://gwtv.cnv8.tv:8097/hbohead_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達體育1
+http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達體育2
+http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達體育3
+http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",BBC
+http://gwtv.cnv8.tv:8097/bbc1_antik/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森幼幼
+http://gwtv.cnv8.tv:8097/yoyo_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",靖天卡通
+http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",亞洲旅遊
+http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",EYETV旅遊
+http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",動物星球
+http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",國家地理野生
+http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",探索亞洲
+http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",探索頻道CH
+http://gwtv.cnv8.tv:8097/discoverych_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",探索頻道HD
+http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",探索科學
+http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",探索動力
+http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",國家地理
+http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",時尚頻道
+http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來體育
+http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯高球1
+http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯高球2
+http://gwtv.cnv8.tv:8097/bosigolf2_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯魅力
+http://gwtv.cnv8.tv:8097/bosisport1_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯運動2
+http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",博斯網球
+http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELEVEN1
+http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中天新聞
+http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視新聞
+http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中視經典
+http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視台灣
+http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視第一
+http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中天亞洲
+http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",三立台灣
+http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",龍華戲劇
+http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TVBS
+http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",靖天國際
+http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",BABY TV
+http://gwtv.cnv8.tv:8097/Babytv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",美食星球
+http://gwtv.cnv8.tv:8097/foodplanet_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TLC旅遊生活
+http://gwtv.cnv8.tv:8097/tlc_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",BBC lifestyle
+http://gwtv.cnv8.tv:8097/bbclifestyle_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",大愛
+http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",衛視電影
+http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",天映頻道
+http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大綜合
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森幼幼
+http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來綜合
+http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大第一
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大綜合
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",三立台灣
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",台視
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中視
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",華視
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",公視
+http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",人間衛視
+http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森綜合
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森超視
+http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中天綜合
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中天娛樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",年代MUCH
+http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森戲劇
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",八大戲劇
+http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來戲劇
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",WAKUWAKU JAPAN
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HBO
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",年代新聞
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森新聞
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",台視
+rtmp://9sv2.mine.nu/sat/tv071
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",中視
+rtmp://9sv2.mine.nu/sat/tv091
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",華視
+rtmp://9sv2.mine.nu/sat/tv111
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",民視
+rtmp://9sv2.mine.nu/sat/tv051
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TVBS新聞
+rtmp://9sv2.mine.nu:1935/sat/tv551
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",TVBS歡樂
+rtmp://9sv2.mine.nu:1935/sat/tv421
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森財經新聞
+rtmp://9sv2.mine.nu:1935/sat/tv571
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森超視
+rtmp://9sv2.mine.nu:1935/sat/tv331
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來育樂
+rtmp://9sv2.mine.nu/sat/tv701
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來體育
+rtmp://9sv2.mine.nu/sat/tv721
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",MOMO綜合
+rtmp://9sv2.mine.nu/sat/tv761
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",緯來日本
+rtmp://9sv2.mine.nu:1935/sat/tv771
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELEVEN2
+rtmp://9sv2.mine.nu:1935/sat/md011
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELEVEN1
+rtmp://9sv2.mine.nu/sat/tv731
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELEVEN2
+rtmp://9sv2.mine.nu/sat/tv741
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELTA體育1
+rtmp://9sv2.mine.nu:1935/sat/md031
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELTA體育4
+rtmp://9sv2.mine.nu:1935/sat/md041
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",ELTA體育3
+rtmp://9sv2.mine.nu:1935/sat/md051
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HKC18
+rtmp://9sv2.mine.nu/sat/hk021
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達體育1
+http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達體育2
+http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",愛爾達體育3
+http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",衛視電影
+http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",HBO HD
+http://125.227.210.55:35210/VideoInput/play.ts
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森電影
+http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",東森洋片
+http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼臺灣電視,#genre#",天映頻道
+http://210.210.155.35:80/dr9445/h/h14/02.m3u8
